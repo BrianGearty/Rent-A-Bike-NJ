@@ -1,0 +1,18 @@
+version: 1
+frontend:
+  phases:
+    # IMPORTANT - Please verify your build commands
+        preBuild:
+      commands:
+        - cd rent-a-bike-nj
+        - npm ci
+    build:
+      commands:
+        - npm run build
+  artifacts:
+    # IMPORTANT - Please verify your build output directory
+    baseDirectory: rent-a-bike-nj/build
+    files:
+      - '**/*'
+  cache:
+    paths: []
