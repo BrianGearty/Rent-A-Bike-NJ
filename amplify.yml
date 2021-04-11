@@ -2,7 +2,7 @@ version: 1
 frontend:
   phases:
     # IMPORTANT - Please verify your build commands
-        preBuild:
+    preBuild:
       commands:
         - cd rent-a-bike-nj
         - npm ci
