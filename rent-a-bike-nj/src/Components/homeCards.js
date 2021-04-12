@@ -13,13 +13,13 @@ function homeCards() {
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="../images/jumboPic.jpeg" className="img-fluid" alt="pic"></img>
+                        <img src="/rentBike.svg" className="img-fluid" alt="pic"></img>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-3"></div>
                     <div class="col-lg-6">
-                        <img src="../images/jumboPic.jpeg" className="img-fluid missionPics" alt="pic"></img>
+                        <img src="/rentBike.svg" className="img-fluid missionPics" alt="pic"></img>
                     </div>
                     <div class="col-md-3">
                         <div class="card-block px-2">
@@ -34,7 +34,7 @@ function homeCards() {
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="../images/jumboPic.jpeg" className="img-fluid" alt="pic"></img>
+                        <img src="/rentBike.svg" className="img-fluid" alt="pic"></img>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@ function homeCards() {
                 <div className="row">
                     <div className="col-md-4 imgDiv">
                         <figure className="figure">
-                            <img src="../images/jumboPic.jpeg" className="figure-img img-fluid rounded cardImage" alt="Bike by the beach"></img>
+                            <img src="/rentBike.svg" className="figure-img img-fluid rounded cardImage" alt="Bike by the beach"></img>
                             <div className="middle">
                                 <div className="text">Register</div>
                             </div>
@@ -53,7 +53,7 @@ function homeCards() {
                     </div>
                     <div className="col-md-4 imgDiv">
                         <figure className="figure">
-                            <img src="../images/jumboPic.jpeg" className="figure-img img-fluid rounded cardImage" alt="Bike by the beach"></img>
+                            <img src="/rentBike.svg" className="figure-img img-fluid rounded cardImage" alt="Bike by the beach"></img>
                             <div className="middle">
                                 <div className="text">Ride</div>
                             </div>
@@ -63,7 +63,7 @@ function homeCards() {
                     </div>
                     <div className="col-md-4 imgDiv">
                         <figure className="figure">
-                            <img src="../images/jumboPic.jpeg" className="figure-img img-fluid rounded cardImage" alt="Bike by the beach"></img>
+                            <img src="/rentBike.svg" className="figure-img img-fluid rounded cardImage" alt="Rent A Bike"></img>
                             <div className="middle">
                                 <div className="text">Return</div>
                             </div>
