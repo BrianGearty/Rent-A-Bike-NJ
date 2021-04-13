@@ -12,6 +12,9 @@ function Home() {
         <div>
             <div class="container-fluid">
             <div class="bgimage">
+            <video width="750" height="500" controls >
+                <source src="/public/videos/181015_12b_Venice Beach_018.mp4" type="video/mp4"/>
+                </video>
             <div className="middle heroText">
                                 <div className="bgText">Any trip. Any time.</div><div className="bgText">Any where.</div><div className="bgTextSmall">Own the Jersey Shore.</div>
                             </div>

@@ -1,5 +1,6 @@
 
 .signUp {
+    font-family: 'Creepster';
     color: black;
     font-weight: 700;
 }
@@ -18,7 +19,6 @@
 
 .socialDiv {
     margin-right: 150px;
-    
 }
 
 .btn-group-vertical{

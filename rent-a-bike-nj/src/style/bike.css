@@ -1,0 +1,44 @@
+.bikeStyleText {
+    color: white;
+}
+
+.edu-card-body {
+    background-color: black;
+}
+
+.bg-dark {
+    margin: 25px;
+}
+
+.bikeHeader {
+    font-family: 'Creepster';
+    font-size: 80px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    text-align: center;
+}
+
+.bikeName {
+    font-family: 'Creepster';
+    font-size: 40px;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.leaf-accordion-bullet-point {
+    width: 1000px;
+}
+
+.bikePrice {
+    color: white;
+    text-align: center;
+}
+
+.tableHeader {
+    color: white;
+    text-align: center;
+}

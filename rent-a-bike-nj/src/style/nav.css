@@ -16,11 +16,12 @@
     color: black !important;
 }
 .navLink {
+    font-family: 'Creepster';
     margin: 10px;
     color: whitesmoke;
     text-align: center;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 35px;
     letter-spacing: 1px;
     padding: 0.2px 15px;
 }

@@ -1,0 +1,35 @@
+{
+    "paths": [
+        {
+            "name": "/api/register",
+            "lambdaFunction": "prod78dadd19",
+            "privacy": {
+                "open": true
+            },
+            "policyResourceName": "/api/register"
+        }
+    ],
+    "resourceName": "apifbbc7db3",
+    "apiName": "apifbbc7db3",
+    "functionArns": [
+        {
+            "lambdaFunction": "prod78dadd19"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-prod-prod-105541-authRole",
+        "unAuthRoleName": "amplify-prod-prod-105541-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "prod78dadd19",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

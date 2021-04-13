@@ -1,11 +1,5 @@
 body {  
-    background: url(../images/rentABikeWhite.png) no-repeat fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-color: black;
-    background-position: center;
+    background-color: white;
 } 
 
 .container-fluid {
@@ -46,6 +40,7 @@ body {
 }
 
 .howRentWorks {
+    font-family: 'Creepster';
     text-align: center;
     color: white;
     padding: 35px;
@@ -112,18 +107,22 @@ position: relative;
 }
 
 .bgText {
+    font-family: 'Creepster';
     font-size: 80px;
     font-weight: 600;
     background-color: transparent;
-    color: black;
+    color: white;
+    -webkit-text-stroke: 1px black;
     text-align: left;
 }
 
 .bgTextSmall {
+    font-family: 'Creepster';
     font-size: 38px;
     font-weight: 500;
     background-color: transparent;
-    color: black;
+    color: white;
+    -webkit-text-stroke: 1px black;
     text-align: left;
 }
 
