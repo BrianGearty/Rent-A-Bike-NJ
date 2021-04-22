@@ -32,17 +32,13 @@
     margin-top: 50px;
 }
 
-.formSubmit:hover {
-    background-color: white;
-    color: black;
-    text-decoration: none;
-}
 
 .rentalForms {
-    margin: 1% 25%;
+margin: 50px auto;
 }
 
 .formSubmit {
+    font-family: "Barlow Condensed";
     border-radius: 25px;
     background-color: black;
     color: white;
@@ -53,4 +49,10 @@
     border: 4px black solid;
     padding: 8px;
     margin: 10px;
+}
+
+.formSubmit:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
 }

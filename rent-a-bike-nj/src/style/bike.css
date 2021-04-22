@@ -11,17 +11,16 @@
 }
 
 .bikeHeader {
-    font-family: 'Creepster';
+    font-family: 'Barlow Condensed';
     font-size: 80px;
     font-weight: 600;
     background-color: transparent;
-    color: white;
-    -webkit-text-stroke: 1px black;
+    color: black;
     text-align: center;
 }
 
 .bikeName {
-    font-family: 'Creepster';
+    font-family: 'Barlow Condensed';
     font-size: 40px;
     background-color: transparent;
     color: white;
@@ -38,7 +37,7 @@
     text-align: center;
 }
 
-.tableHeader {
+.bikeTableHeader {
     color: white;
     text-align: center;
 }

@@ -7,10 +7,10 @@ import { NavLink } from 'react-router-dom';
 function Navigation() {
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark ">
-            <NavLink className="navbar-brand" to="/"><img className="logo" src="/rentBike.svg" alt = "Rent A Bike" width="200px"></img></NavLink>
+        <nav className="navbar navbar-expand-lg">
+            <NavLink className="navbar-brand" to="/"><img className="logo" src="/images/rentABikeWhite.svg" alt ="Rent A Bike" width="200px"></img></NavLink>
             <button className="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                <span><img className="plusSign" src="/plus.svg" alt="Plus Sign" aria-hidden="false"></img></span>
+                <span><img className="plusSign" src="/images/plus.svg" alt="Plus Sign" aria-hidden="true"></img></span>
             </button>
 
             <div className="collapse navbar-collapse" id="navbarTogglerDemo02">

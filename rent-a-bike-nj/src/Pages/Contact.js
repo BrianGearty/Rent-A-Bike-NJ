@@ -12,7 +12,7 @@ function Contact() {
                 <div className="row">
                     <div className="col-md-12 ">
                         <h2 className="email-title helllo text-center">CONTACT US</h2>
-                        <p className="emailText">Thank you for your interest in Rent A Bike NJ. Please fill out the brief form below to contact our team. For any inquiries on prices please use our <a className="" href="/datadisplay">➡︎ Pricing Details</a></p>
+                        <p className="emailText">Thank you for your interest in Rent A Bike NJ. Please fill out the brief form below to contact our team. For any inquiries on prices please use our <a className="" href="/bike">➡︎ Pricing Details</a></p>
                     </div>
                 </div>
             </header>

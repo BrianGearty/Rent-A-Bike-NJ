@@ -1,5 +1,4 @@
 import React from "react";
-// import './style.css';
 
 
 
@@ -7,9 +6,8 @@ function About() {
 
     return (
         <div>
-            ABOUT PAGE HERE
+        About Us Page will be here.
         </div>
-
     )
 
 };

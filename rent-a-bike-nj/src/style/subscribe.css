@@ -1,30 +1,21 @@
 
 .signUp {
-    font-family: 'Creepster';
+    font-family: 'Barlow Condensed';
     color: black;
     font-weight: 700;
 }
 
-
-.flex-container {
-    display: flex;
-    justify-content: space-between;
-    position: relative;
+.subscribeEmail {
+    width: 35%;
+    margin: auto;
+    text-align: center;
 }
 
 
-.subscribe {
-    margin-left: 70px;
-}
 
-.socialDiv {
-    margin-right: 150px;
-}
 
-.btn-group-vertical{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
+
+
 
 

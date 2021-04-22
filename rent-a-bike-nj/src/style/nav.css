@@ -1,8 +1,16 @@
 .navbar {
-    background-color: black;
+    background-color: white;
 }
-
-.navbar-toggler:active .plus {
+.navbar-toggler {
+    margin-top: 0px;
+    border-radius: 0;
+    height: 30px;
+    width: 30px;
+    padding: 2px;
+    outline: none !important;
+    box-shadow: none;
+}
+.navbar-toggler:active .plusSign {
     transform: rotate(45deg); 
     -webkit-transform: rotate(45deg); 
     -ms-transform: rotate(45deg);
@@ -11,25 +19,20 @@
     }
 
 
-.plusSign {
-    background-color: white !important;
-    color: black !important;
-}
 .navLink {
-    font-family: 'Creepster';
-    margin: 10px;
-    color: whitesmoke;
+    color: black;
     text-align: center;
-    font-weight: 700;
-    font-size: 35px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
     letter-spacing: 1px;
     padding: 0.2px 15px;
 }
 
 .navbar-brand {
     margin: 10px;
-    background-color:black !important;
-    color: whitesmoke !important;
+    background-color:white !important;
+    color: black !important;
     text-align: center;
     font-weight: 500;
     font-size: xx-large;
@@ -39,9 +42,15 @@
 }
 
 .active, .navLink:hover {
-    background-color: whitesmoke;
-    color: black;
+    background-color: black;
+    color: white;
     text-decoration: none;
     padding-top: 5px;
     padding-bottom: 5px;
 } 
+
+@media (max-width: 540px) {
+    .navbar-brand{margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left:20px}
+}

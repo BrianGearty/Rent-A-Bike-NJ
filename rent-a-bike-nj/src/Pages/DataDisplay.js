@@ -41,7 +41,7 @@ function DataDisplay() {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
-                        <table className='table' style={{ width: "80%", margin: "auto" }}>
+                        <table className='table'>
                             <tbody>
                                 <tr>
                                 <th><h2 className="tableHeader">Name</h2></th>
